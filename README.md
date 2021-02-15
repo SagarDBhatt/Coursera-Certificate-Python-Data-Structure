@@ -1,2 +1,3 @@
 # Coursera-Certificate-Python-Data-Structure
 Courcera Python for everybody specialization series. This is the second course - Python Datastructure
+This is 2nd of 5 courses for Python specialization. 
