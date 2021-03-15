@@ -7,6 +7,9 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    stuff = dict()
+    # print(stuff['bag', 0])
+    print(stuff.get('bag'))
 
 
 # Press the green button in the gutter to run the script.
