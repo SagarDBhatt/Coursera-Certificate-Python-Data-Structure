@@ -5,3 +5,8 @@ This is 2nd of 5 courses for Python specialization.
 # Topic 1 - Lists
 
 Week 4 - Exercise 8.5 commited
+
+--------------------------------
+Week 5 Exercise 9.4
+
+Python Dictionaries and word counts - commited
