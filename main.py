@@ -12,5 +12,10 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    # iplist = [i for i in input().split()]
+    # print(iplist)
+    x = {'chuck': 1, 'fred': 42, 'jan': 100}
+    y = x.items()
+    print(y)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
